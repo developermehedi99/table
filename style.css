@@ -1,0 +1,50 @@
+.second-table{
+    border: 1px solid blue;
+    width: 500px;
+}
+.second-table th, td{
+    border: 1px solid blue;
+}
+.hding{
+    background: yellow;
+}
+.table-row td{
+    border: 1px solid blue;
+}
+
+.third-table{
+    width: 600px;
+    text-align: center;
+}
+.third-table th, td{
+    border: 1px solid black;
+    
+}
+
+.table-practise{
+    background: #b8c0cb;
+    
+    margin: 30px auto;
+    padding: 25px 15px;
+    text-align: center;
+
+}
+.last-table{
+    border: 1px solid rgb(0, 0, 0);
+    color: #ffffff;
+    width: 700px;
+    margin: 0 auto;
+}
+.table-practise p{
+    margin-top: -10px;
+}
+.last-table td{
+    padding: 5px;
+    background: #282b32;
+}
+.heading td{
+    text-transform: uppercase;
+    background-color: #545b65;
+    padding: 5px;
+
+}
